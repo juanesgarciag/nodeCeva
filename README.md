@@ -8,8 +8,10 @@ A simple Node.js project to fetch user counts from a web service and compute a r
    ```bash
    npm install
 2. Run de project in watch mode
+   ```bash
    npm run start:dev 
 3. Run test
+   ```bash
    npm test
 
 ## Exercises solution
